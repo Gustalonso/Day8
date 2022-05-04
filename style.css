@@ -3,15 +3,12 @@ body{
     background-color: gainsboro;
     color: white;
     text-shadow: 2px 2px red;
-    text-indent: 10px;
-    
+    text-indent: 10px; 
 }
 .container { 
     width: 1000px;
     background-color: white;
     margin: auto;
-    
-
 }
 header{
     margin-bottom: 0;
@@ -21,9 +18,6 @@ header{
     background-size: cover;
     background-position: center;
     font-size: 2em;
-   
-    
-   
 }
 nav{
     margin: 0;
@@ -39,14 +33,12 @@ main{
     height: 600px;
     float: left;
     font-size: 2em;
-
 }
 section{
     background-color: orange;
    height: 290px;
    border: 5px solid black;
-   font-size: 1em;
-    
+   font-size: 1em;   
 }
 article{
     background-color:blue;
@@ -61,7 +53,6 @@ aside{
     border: 5px solid black;
     float: right;
     font-size: 2em;
-
 }
 footer{
     height: fit-content;
@@ -69,5 +60,4 @@ footer{
     clear: left;
     border: 5px solid black;
     font-size:2em;
-
 }
